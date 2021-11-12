@@ -1,6 +1,6 @@
 Hi 👋
 
-I'm Awesome Stickz, an 18 yo self-taught Developer (obviously with the help of various online communities)
+I'm Awesome Stickz, a 19 yo self-taught Developer (obviously with the help of various online communities)
 
 I mainly love coding 👩‍💻 but I play games 🎮 and watch animes when I'm free 🆓
 
