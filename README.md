@@ -6,7 +6,7 @@ I know a few programming languages but I only code in TypeScript cuz why not
 
 I'm better at backend compared to I'm at frontend but I can do full stack since I'm already doing it, all with TypeScript
 
-I'm currently working on [Giveaway Boat](https://giveawayboat.com/) ⛵, an advanced Discord giveaway bot owned by me, used by over 100,000+ servers
+I'm currently working on [Giveaway Boat](https://giveaway.boats/) ⛵, an advanced Discord giveaway bot owned by me, used by over 100,000+ servers
 
 Contact Me:
 
