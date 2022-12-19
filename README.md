@@ -10,6 +10,6 @@ I'm currently working on [Giveaway Boat](https://giveaway.boats/) ⛵, an advanc
 
 Contact Me:
 
--   Discord - `Awesome Stickz#9689` (Friend Requests closed, you need to share a server with me to be able to DM me, you can join [this server](https://support.giveawayboat.com) if you don't share any)
+-   Discord - `Awesome Stickz#9689` (Friend Requests closed, you need to share a server with me to be able to DM me, you can join [this server](https://support.giveaway.boats) if you don't share any)
 -   Email - [`awesome@stickz.dev`](mailto:awesome@stickz.dev)
 -   Twitter - [`AwesomeStickz`](https://twitter.com/AwesomeStickz)
