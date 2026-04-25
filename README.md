@@ -6,7 +6,9 @@ I know a few programming languages but I only **code in TypeScript** cuz why not
 
 I'm better at **backend** compared to I'm at frontend but I can do full stack since I'm already doing it, all **with TypeScript**
 
-I'm currently working on [Giveaway Boat](https://giveaway.boats/) ⛵, an **advanced Discord giveaway bot** developed and owned by me, **used by** over **500,000+ servers**!
+I currently own and develop:
+- [Giveaway Boat](https://giveaway.boats/) ⛵: An **advanced Discord giveaway bot** with powerful features for **creating seamless and highly customizable giveaways**. Used by over **500,000+ servers**.
+- [Booster Bot](https://boosterbot.xyz) 🥳: A Discord bot focused on **tracking, logging and rewarding server boosters**. Used by over **75,000+ servers**.
 
 #### Contact Me:
 
